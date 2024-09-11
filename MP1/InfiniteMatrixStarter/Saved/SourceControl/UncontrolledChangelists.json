@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/heart.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/NewMaterial.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Projectile.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Enemy.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_HurtFlash.uasset",
+				"/Users/wilsonkenny/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/vignette.uasset"
+			]
+		}
+	]
+}
